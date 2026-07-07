@@ -25,6 +25,8 @@ Gender:<br>
 <select name="gender">
     <option>Male</option>
     <option>Female</option>
+    <option>safa</option>
+     <option>amal</option>
 </select><br><br>
 
 <button type="submit">Save Student</button>
