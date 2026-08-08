@@ -102,10 +102,7 @@ tr:nth-child(even){
 <td><?php echo $row['allocation_date']; ?></td>
 </tr>
 
-<tr>
-<th>End Date</th>
-<td><?php echo $row['end_date']; ?></td>
-</tr>
+
 
 <tr>
 <th>Status</th>
